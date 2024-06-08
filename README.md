@@ -23,7 +23,7 @@ This repository is dedicated to hosting files and releases.
 ## Entrepreneurs Database
 
 - [Entrepreneurs database as of 05.06.2024 in CSV](https://github.com//iota-agency/downloads/releases/download/v1.0.0/enetepreneurs.csv)
-- [Enriched entrepreneurs database as of 05.06.2024 in CSV](https://github.com//iota-agency/downloads/releases/download/v1.0.0/enetepreneurs.csv)
+- [Enriched entrepreneurs database as of 05.06.2024 in CSV](https://github.com//iota-agency/downloads/releases/download/v1.0.0/data_enriched.csv)
 
 ## VC.ru
 
